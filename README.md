@@ -100,7 +100,7 @@
 ### Here are my wonderful teammates who collaborated and made this project successful:
 
 <div align="center">
-  <img src=![22ffaec6-6077-462b-884b-283d040acde1](https://github.com/user-attachments/assets/338fc99c-f004-45e8-b8f4-1056dfe3061d) width="500" />
+  <img src="https://github.com/user-attachments/assets/338fc99c-f004-45e8-b8f4-1056dfe3061d" width="500" />
 </div>
 
 ### 📝 Brief Reflection  

@@ -58,12 +58,12 @@
 4. Technology Information & System
 
 ## 📚📚 My Core Subjects For Second Sem Of Data Engineering (1st year)
+## 📚📚 My Core Subjects For Second Sem Of Data Engineering (1st year)
 1.Probability & Statistical Data Analysis
 2.Programming Technique 2
 3.System Analysis And Design
 4.Computer Organization And Architecture 
 5.Human Computer Interaction
-
 
 
 

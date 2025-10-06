@@ -111,7 +111,7 @@ We strengthened our knowledge of use case diagrams, context diagrams, and ERD ch
 
 | No | Assignment / Project | Project Details | Dates | Reflection |
 |----|-----------------------|----------------|--------|-------------|
-| 1  | Final Project SAD: System Analysis and Design | [![View Project](https://github.com/user-attachments/assets/085b6c0e-4acf-4ca8-967d-f10df6531d64)](https://www.figma.com/proto/I6C0lAEEc4HjjcMZW0MKhw/hasta-Car-Rental?node-id=375-2671&p=f&t=0bMKV8mLlUskuh03-1&scaling=contain&content-scaling=fixed&page-id=375%3A1041&starting-point-node-id=375%3A2671&show-proto-sidebar=1) ☝🏻click here to view | [FEB 2025] | This project taught me how important proper analysis, modeling, and documentation are in building efficient systems. Creating DFDs, ERDs, and use case diagrams helped me understand both the technical and business aspects of system development. |
+| 1  | Final Project SAD: System Analysis and Design | [![View Project](https://github.com/user-attachments/assets/085b6c0e-4acf-4ca8-967d-f10df6531d64)](https://www.figma.com/proto/I6C0lAEEc4HjjcMZW0MKhw/hasta-Car-Rental?node-id=375-2671&p=f&t=0bMKV8mLlUskuh03-1&scaling=contain&content-scaling=fixed&page-id=375%3A1041&starting-point-node-id=375%3A2671&show-proto-sidebar=1) ☝🏻click here to view | [JUNE 2025] | This project taught me how important proper analysis, modeling, and documentation are in building efficient systems. Creating DFDs, ERDs, and use case diagrams helped me understand both the technical and business aspects of system development. |
 ---
 
 # Project HCI  
@@ -127,7 +127,7 @@ We learned the importance of accessibility, color contrast, layout consistency, 
 
 | No | Assignment / Project | Project Details | Dates | Reflection |
 |----|-----------------------|----------------|--------|-------------|
-| 1  | Final Project HCI: Human-Computer Interaction | [![View Project](https://github.com/user-attachments/assets/124b81e1-c989-4664-82f6-3908f4a0c557)](https://www.figma.com/proto/mK2cVQBTFwJU08elAjEKPP/HCI-DESIGN?node-id=245-176&p=f&t=yWIU42lpnnbf13xR-0&scaling=scale-down&content-scaling=fixed&page-id=15%3A4&starting-point-node-id=15%3A24&show-proto-sidebar=1) ☝🏻click here to view | [MAR 2025] | Through this project, I learned how crucial it is to design with the user in mind. Conducting usability tests and gathering feedback allowed us to improve the interface iteratively. It enhanced my understanding of user experience, accessibility, and effective interface design. |
+| 1  | Final Project HCI: Human-Computer Interaction | [![View Project](https://github.com/user-attachments/assets/124b81e1-c989-4664-82f6-3908f4a0c557)](https://www.figma.com/proto/mK2cVQBTFwJU08elAjEKPP/HCI-DESIGN?node-id=245-176&p=f&t=yWIU42lpnnbf13xR-0&scaling=scale-down&content-scaling=fixed&page-id=15%3A4&starting-point-node-id=15%3A24&show-proto-sidebar=1) ☝🏻click here to view | [JULY 2025] | Through this project, I learned how crucial it is to design with the user in mind. Conducting usability tests and gathering feedback allowed us to improve the interface iteratively. It enhanced my understanding of user experience, accessibility, and effective interface design. |
 
 ---
 ## 🦾 OTHER ASSESSMENTS 

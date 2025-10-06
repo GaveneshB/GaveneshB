@@ -122,7 +122,7 @@ We learned the importance of accessibility, color contrast, layout consistency, 
 
 ---
 
-## Reflection of my assignment and project  
+## Reflection of my assignment and project for sem 2 1st Year 
 
 | No | Assignment / Project | Project Details | Dates | Reflection |
 |----|-----------------------|----------------|--------|-------------|
@@ -130,6 +130,8 @@ We learned the importance of accessibility, color contrast, layout consistency, 
 
 ---
 
+| No | Assignment / Project | Project Details | Dates | Reflection |
+|----|-----------------------|----------------|--------|-------------|
 | 1  | Project HCI: Human-Computer Interaction | [![View Project](https://github.com/user-attachments/assets/YOUR-HCI-PROJECT-THUMBNAIL)](YOUR-HCI-PROJECT-LINK) ☝🏻click here to view | [MAR 2025] | Through this project, I learned how crucial it is to design with the user in mind. Conducting usability tests and gathering feedback allowed us to improve the interface iteratively. It enhanced my understanding of user experience, accessibility, and effective interface design. |
 
 ---

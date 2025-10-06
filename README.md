@@ -109,8 +109,7 @@ We strengthened our knowledge of use case diagrams, context diagrams, and ERD ch
 
 | No | Assignment / Project | Project Details | Dates | Reflection |
 |----|-----------------------|----------------|--------|-------------|
-| 1  | Final Project SAD: System Analysis and Design | [![View Project](https://github.com/user-attachments/assets/YOUR-SAD-PROJECT-THUMBNAIL)](YOUR-SAD-PROJECT-LINK) ☝🏻click here to view | [FEB 2025] | This project taught me how important proper analysis, modeling, and documentation are in building efficient systems. Creating DFDs, ERDs, and use case diagrams helped me understand both the technical and business aspects of system development. |
-
+| 1  | Final Project SAD: System Analysis and Design | [![View Project](https://github.com/user-attachments/assets/085b6c0e-4acf-4ca8-967d-f10df6531d64)](https://www.figma.com/proto/I6C0lAEEc4HjjcMZW0MKhw/hasta-Car-Rental?node-id=375-2671&p=f&t=0bMKV8mLlUskuh03-1&scaling=contain&content-scaling=fixed&page-id=375%3A1041&starting-point-node-id=375%3A2671&show-proto-sidebar=1) ☝🏻click here to view | [FEB 2025] | This project taught me how important proper analysis, modeling, and documentation are in building efficient systems. Creating DFDs, ERDs, and use case diagrams helped me understand both the technical and business aspects of system development. |
 ---
 
 # Project HCI  

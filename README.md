@@ -107,6 +107,10 @@
 Working on the **System Analysis and Design (SAD)** project allowed my team and me to understand the detailed process of analyzing existing systems and designing efficient, user-centered solutions.  
 We strengthened our knowledge of use case diagrams, context diagrams, and ERD charts, helping us visualize how data and processes interact in real-world applications. The teamwork experience improved our communication, documentation, and project management skills.
 
+| No | Assignment / Project | Project Details | Dates | Reflection |
+|----|-----------------------|----------------|--------|-------------|
+| 1  | Project SAD: System Analysis and Design | [![View Project](https://github.com/user-attachments/assets/YOUR-SAD-PROJECT-THUMBNAIL)](YOUR-SAD-PROJECT-LINK) ☝🏻click here to view | [FEB 2025] | This project taught me how important proper analysis, modeling, and documentation are in building efficient systems. Creating DFDs, ERDs, and use case diagrams helped me understand both the technical and business aspects of system development. |
+
 ---
 
 # Project HCI  
@@ -119,16 +123,6 @@ We strengthened our knowledge of use case diagrams, context diagrams, and ERD ch
 ### 📝 Brief Reflection  
 The **Human-Computer Interaction (HCI)** project helped us explore how design choices influence user experience and usability.  
 We learned the importance of accessibility, color contrast, layout consistency, and intuitive navigation. By applying the principles of user-centered design, our team was able to create an interface that was both functional and visually appealing, while also conducting usability testing to refine our designs further.
-
----
-
-## Reflection of my assignment and project for sem 2 1st Year 
-
-| No | Assignment / Project | Project Details | Dates | Reflection |
-|----|-----------------------|----------------|--------|-------------|
-| 1  | Project SAD: System Analysis and Design | [![View Project](https://github.com/user-attachments/assets/YOUR-SAD-PROJECT-THUMBNAIL)](YOUR-SAD-PROJECT-LINK) ☝🏻click here to view | [FEB 2025] | This project taught me how important proper analysis, modeling, and documentation are in building efficient systems. Creating DFDs, ERDs, and use case diagrams helped me understand both the technical and business aspects of system development. |
-
----
 
 | No | Assignment / Project | Project Details | Dates | Reflection |
 |----|-----------------------|----------------|--------|-------------|

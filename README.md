@@ -117,8 +117,7 @@ We strengthened our knowledge of use case diagrams, context diagrams, and ERD ch
 ### Meet my amazing teammates from the Human-Computer Interaction project:
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/55709515-125d-4323-bdb0-a377aa4988f4" alt=<img width="342" height="318" alt="image" src="https://github.com/user-attachments/assets/d271bbfa-328f-46e8-a7db-969e01b7bd11" />
-width="500" />
+  <img src="https://github.com/user-attachments/assets/55709515-125d-4323-bdb0-a377aa4988f4" alt="Project Image" width="500" />
 </div>
 
 ### 📝 Brief Reflection  

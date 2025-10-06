@@ -126,7 +126,7 @@ We learned the importance of accessibility, color contrast, layout consistency, 
 
 | No | Assignment / Project | Project Details | Dates | Reflection |
 |----|-----------------------|----------------|--------|-------------|
-| 1  | Final Project HCI: Human-Computer Interaction | [![View Project](https://github.com/user-attachments/assets/YOUR-HCI-PROJECT-THUMBNAIL)](YOUR-HCI-PROJECT-LINK) ☝🏻click here to view | [MAR 2025] | Through this project, I learned how crucial it is to design with the user in mind. Conducting usability tests and gathering feedback allowed us to improve the interface iteratively. It enhanced my understanding of user experience, accessibility, and effective interface design. |
+| 1  | Final Project HCI: Human-Computer Interaction | [![View Project](https://github.com/user-attachments/assets/<img width="342" height="318" alt="image" src="https://github.com/user-attachments/assets/124b81e1-c989-4664-82f6-3908f4a0c557" />)]([YOUR-HCI-PROJECT-LINK]https://www.figma.com/proto/mK2cVQBTFwJU08elAjEKPP/HCI-DESIGN?node-id=245-176&p=f&t=yWIU42lpnnbf13xR-0&scaling=scale-down&content-scaling=fixed&page-id=15%3A4&starting-point-node-id=15%3A24&show-proto-sidebar=1) ☝🏻click here to view | [MAR 2025] | Through this project, I learned how crucial it is to design with the user in mind. Conducting usability tests and gathering feedback allowed us to improve the interface iteratively. It enhanced my understanding of user experience, accessibility, and effective interface design. |
 
 ---
 ## 🦾 OTHER ASSESSMENTS 

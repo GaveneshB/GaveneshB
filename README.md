@@ -95,6 +95,27 @@
 | 5  | Design Thinking Project                                                                      | [![Image](https://github.com/user-attachments/assets/57318f94-1371-446d-b1d1-d8d2b197a02d)](https://youtu.be/Uj6N44ToVQo)☝🏻click here to check out the video!! | [17 JAN 2025] | Working on a design thinking project was a valuable experience that changed how I approach problems. This project taught me to focus on understanding the user's needs and coming up with creative solutions. By working with my team, we brainstormed ideas, made prototypes, and tested them. This process helped us improve our solutions step by step. I learned how to be more creative and work well with others. Overall, the project showed me how important it is to put the user first and keep improving our ideas.                                                                                                                                                                                                                                                                                                                                                                |
 ---
 
+# My Participation in Hackathon 2025  
+### Here are my amazing teammates who contributed so much to our project:
+
+<div align="center">
+
+  <!-- First Image -->
+  <img src="https://github.com/user-attachments/assets/bc84381f-01b0-45df-8dcf-afd311619d8b" width="500" alt="Hackathon 2025 Team" />
+  <p><em>Figure 1 — The Hackathon 2025 Team</em></p>
+
+  <!-- Second Image -->
+  <img src="https://github.com/user-attachments/assets/b6bd8adb-d24d-43ee-afe4-cc21b32a9745" width="500" alt="Hackathon 2025 Presentation" />
+  <p><em>Figure 2 — Our Hackathon Presentation Moment</em></p>
+
+</div>
+
+
+
+
+
+---
+
 ## Reflection of my assignment and project for 2nd sem [1st Year]
 
 ---

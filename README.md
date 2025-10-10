@@ -22,6 +22,7 @@
 - Love hanging out with friends and exploring things, Ps: (not an indoor person) ˚˖𓍢ִ໋🍃˚⛰️⋆☁️
 - I enjoy playing badminton and futsal in my free time ⚽🏸
 - Love to drive while listening to my favorite songs, Ps: (fan of Bruno Mars) ↻ ◁ || ▷ ↺
+- Currently in 2nd year of my degree life
 
 
 

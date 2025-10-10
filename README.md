@@ -96,7 +96,6 @@
 ---
 
 # My Participation in Hackathon 2025  
-### Here are my amazing teammates who contributed so much to our project:
 
 <div align="center">
 

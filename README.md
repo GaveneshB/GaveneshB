@@ -102,11 +102,11 @@
 
   <!-- First Image -->
   <img src="https://github.com/user-attachments/assets/bc84381f-01b0-45df-8dcf-afd311619d8b" width="500" alt="Hackathon 2025 Team" />
-  <p><em>Figure 1 — The Hackathon 2025 Team</em></p>
+  <p><em>Figure 1 — Our Hackathon Presentation Moment</em></p>
 
   <!-- Second Image -->
   <img src="https://github.com/user-attachments/assets/b6bd8adb-d24d-43ee-afe4-cc21b32a9745" width="500" alt="Hackathon 2025 Presentation" />
-  <p><em>Figure 2 — Our Hackathon Presentation Moment</em></p>
+  <p><em>Figure 2 — My Achievement</em></p>
 
 </div>
 
